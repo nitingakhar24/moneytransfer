@@ -2,7 +2,7 @@ package com.example.model;
 
 import java.math.BigDecimal;
 
-public class Transaction 
+public class TransactionModel 
 {
 	private String sourceAccountId;
 	private String targetAccountId;
